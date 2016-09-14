@@ -1,0 +1,627 @@
+[ERROR] 2016-08-10 09:59:10,441(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 09:59:10,441(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 09:59:10,441(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 09:59:10,441(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 09:59:10,441(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 09:59:10,441(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:00:13,892(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:00:13,892(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:00:13,892(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:00:13,892(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:00:13,892(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:00:13,892(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:00:37,980(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:00:37,980(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:00:37,980(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:00:37,980(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:00:37,980(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:00:37,980(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:00:46,054(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:00:46,054(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:00:46,054(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:00:46,054(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:00:46,054(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:00:46,054(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:00:59,681(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:00:59,696(15) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:00:59,696(15) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:00:59,696(15) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:00:59,696(15) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:00:59,696(15) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:15:29,536(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:15:29,536(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:15:29,536(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:15:29,536(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:15:29,536(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:15:29,536(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:15:53,223(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:15:53,223(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:15:53,223(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:15:53,223(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:15:53,223(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:15:53,223(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:16:09,948(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:16:09,948(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:16:09,948(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:16:09,948(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:16:09,948(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:16:09,948(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:27:36,710(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:27:36,710(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:27:36,710(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:27:36,710(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:27:36,710(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:27:36,710(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[ERROR] 2016-08-10 10:28:09,333(0) --> [main] test.TestLog4j.main(TestLog4j.java:12): Did it again!  
+[INFO ] 2016-08-10 10:28:09,333(0) --> [main] test.TestLog4j.main(TestLog4j.java:13): 我是info信息  
+[DEBUG] 2016-08-10 10:28:09,333(0) --> [main] test.TestLog4j.main(TestLog4j.java:14): 我是debug信息  
+[WARN ] 2016-08-10 10:28:09,333(0) --> [main] test.TestLog4j.main(TestLog4j.java:15): 我是warn信息  
+[FATAL] 2016-08-10 10:28:09,333(0) --> [main] test.TestLog4j.main(TestLog4j.java:16): 我是fatal信息  
+[DEBUG] 2016-08-10 10:28:09,333(0) --> [main] test.TestLog4j.main(TestLog4j.java:17): 我是debug信息  
+[INFO ] 2016-08-10 11:39:04,919(0) --> [Thread-0] test.TestTread.run(TestTread.java:13): 我是info信息  
+[INFO ] 2016-08-10 11:39:04,919(0) --> [Thread-1] test.TestTread.run(TestTread.java:13): 我是info信息  
+[INFO ] 2016-08-10 11:42:07,454(0) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:07,454(0) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:09,265(1811) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:09,391(1937) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:11,108(3654) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:11,296(3842) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:12,968(5514) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:13,141(5687) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:14,842(7388) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:15,015(7561) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是info信息  
+[INFO ] 2016-08-10 11:42:52,124(0) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:42:52,124(0) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:42:53,965(1841) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:42:53,966(1842) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:42:55,651(3527) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:42:55,745(3621) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:42:57,339(5215) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:42:57,589(5465) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:42:59,087(6963) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:42:59,290(7166) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:46:43,481(0) --> [main] test.TestTread.main(TestTread.java:23): 信息  
+[INFO ] 2016-08-10 11:46:43,481(0) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:46:43,481(0) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:46:45,291(1810) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:46:45,292(1811) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:46:47,008(3527) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:46:47,118(3637) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:46:48,709(5228) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:46:48,851(5370) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 11:46:50,473(6992) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 11:46:50,630(7149) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 13:43:48,142(0) --> [main] test.TestTread.main(TestTread.java:23): 信息  
+[INFO ] 2016-08-10 13:43:48,142(0) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 13:43:48,142(0) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 13:43:49,951(1809) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 13:43:49,951(1809) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 13:43:51,699(3557) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 13:43:51,747(3605) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 13:43:53,509(5367) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 13:43:53,573(5431) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[INFO ] 2016-08-10 13:43:55,320(7178) --> [Thread-0] test.TestTread.run(TestTread.java:15): 我是张三信息  
+[INFO ] 2016-08-10 13:43:55,368(7226) --> [Thread-1] test.TestTread.run(TestTread.java:15): 我是李四信息  
+[DEBUG] 2016-08-19 17:21:53,129(0) --> [main] org.apache.axis2.util.OnDemandLogger.getLog(OnDemandLogger.java:55): OnDemandLogger initialized for class org.apache.axis2.context.AbstractContext is:org.apache.commons.logging.impl.Log4JLogger@9fe666  
+[DEBUG] 2016-08-19 17:21:53,145(16) --> [main] org.apache.axis2.util.Loader.getResourceAsStream(Loader.java:132): Trying to find [org/apache/axis2/deployment/axis2_default.xml] using sun.misc.Launcher$AppClassLoader@2cb49d class loader.  
+[DEBUG] 2016-08-19 17:21:53,145(16) --> [main] org.apache.axiom.locator.DefaultOMMetaFactoryLocator.<init>(DefaultOMMetaFactoryLocator.java:77): Starting class path based discovery  
+[DEBUG] 2016-08-19 17:21:53,160(31) --> [main] org.apache.axiom.locator.ImplementationFactory.parseDescriptor(ImplementationFactory.java:79): Loading jar:file:/C:/Users/renyaol/Desktop/axis2-1.7.3/lib/axiom-dom-1.2.19.jar!/META-INF/axiom.xml  
+[DEBUG] 2016-08-19 17:21:53,316(187) --> [main] org.apache.axiom.locator.ImplementationFactory.parseDescriptor(ImplementationFactory.java:125): Discovered implementations: [doom(metaFactory=org.apache.axiom.om.impl.dom.factory.OMDOMMetaFactory,features=[dom(priority=100)])]  
+[DEBUG] 2016-08-19 17:21:53,316(187) --> [main] org.apache.axiom.locator.ImplementationFactory.parseDescriptor(ImplementationFactory.java:79): Loading jar:file:/C:/Users/renyaol/Desktop/axis2-1.7.3/lib/axiom-impl-1.2.19.jar!/META-INF/axiom.xml  
+[DEBUG] 2016-08-19 17:21:53,363(234) --> [main] org.apache.axiom.locator.ImplementationFactory.parseDescriptor(ImplementationFactory.java:125): Discovered implementations: [llom(metaFactory=org.apache.axiom.om.impl.llom.factory.OMLinkedListMetaFactory,features=[default(priority=100)])]  
+[DEBUG] 2016-08-19 17:21:53,363(234) --> [main] org.apache.axiom.locator.PriorityBasedOMMetaFactoryLocator.loadImplementations(PriorityBasedOMMetaFactoryLocator.java:59): Meta factories:
+  default: org.apache.axiom.om.impl.llom.factory.OMLinkedListMetaFactory
+  dom: org.apache.axiom.om.impl.dom.factory.OMDOMMetaFactory  
+[DEBUG] 2016-08-19 17:21:53,379(250) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:489): About to create XMLInputFactory implementation with classloader=sun.misc.Launcher$AppClassLoader@2cb49d  
+[DEBUG] 2016-08-19 17:21:53,379(250) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:491): The classloader for javax.xml.stream.XMLInputFactory is: null  
+[DEBUG] 2016-08-19 17:21:53,394(265) --> [main] org.apache.axiom.util.stax.dialect.StAXDialectDetector.detectDialectFromJarManifest(StAXDialectDetector.java:256): StAX implementation at jar:file:/C:/Users/renyaol/Desktop/axis2-1.7.3/lib/woodstox-core-asl-4.2.0.jar!/ is:
+  Title:         Woodstox XML-processor
+  Symbolic name: woodstox-core-asl
+  Vendor:        http://woodstox.codehaus.org
+  Version:       4.2.0  
+[DEBUG] 2016-08-19 17:21:53,394(265) --> [main] org.apache.axiom.util.stax.dialect.StAXDialectDetector.detectDialect(StAXDialectDetector.java:218): Detected StAX dialect: Woodstox 4.x  
+[DEBUG] 2016-08-19 17:21:53,394(265) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:513): Created XMLInputFactory = class org.apache.axiom.util.stax.wrapper.ImmutableXMLInputFactory with classloader=sun.misc.Launcher$AppClassLoader@2cb49d  
+[DEBUG] 2016-08-19 17:21:53,394(265) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:515): Configuration = DEFAULT  
+[DEBUG] 2016-08-19 17:21:53,394(265) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:516): Size of XMLInputFactory map for this configuration = 1  
+[DEBUG] 2016-08-19 17:21:53,394(265) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:517): Configurations for which factories have been cached = [DEFAULT]  
+[DEBUG] 2016-08-19 17:21:53,441(312) --> [main] org.apache.axiom.om.util.StAXUtils.createXMLStreamReader(StAXUtils.java:210): XMLStreamReader is org.apache.axiom.util.stax.dialect.Woodstox4StreamReaderWrapper  
+[DEBUG] 2016-08-19 17:21:53,488(359) --> [main] org.apache.axiom.om.impl.common.AxiomContainerSupport.ajc$interMethod$org_apache_axiom_om_impl_common_AxiomContainerSupport$org_apache_axiom_om_impl_intf_AxiomContainer$build(AxiomContainerSupport.aj:172): Builder is already complete.  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler RequestURIBasedDispatcher added to Phase Transport  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler SOAPActionBasedDispatcher added to Phase Transport  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler AddressingBasedDispatcher added to Phase Addressing  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler RequestURIBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler SOAPActionBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler RequestURIOperationDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler SOAPMessageBodyBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler HTTPLocationBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler RequestURIBasedDispatcher added to Phase Transport  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler SOAPActionBasedDispatcher added to Phase Transport  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler AddressingBasedDispatcher added to Phase Addressing  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler RequestURIBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler SOAPActionBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler RequestURIOperationDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler SOAPMessageBodyBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,613(484) --> [main] org.apache.axis2.engine.Phase.addHandler(Phase.java:98): Handler HTTPLocationBasedDispatcher added to Phase Dispatch  
+[DEBUG] 2016-08-19 17:21:53,675(546) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:485): Entry: AxisOperation::getInputAction  
+[DEBUG] 2016-08-19 17:21:53,738(609) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:506): Exit: AxisOperation::getInputAction null  
+[DEBUG] 2016-08-19 17:21:53,738(609) --> [main] org.apache.axis2.description.AxisOperation.setSoapAction(AxisOperation.java:467): Entry: AxisOperation::setSoapAction, previous soapAction: null updated soapAction: urn:anonRobustOp  
+[DEBUG] 2016-08-19 17:21:53,738(609) --> [main] org.apache.axis2.description.AxisOperation.setSoapAction(AxisOperation.java:471): Exit: AxisOperation::setSoapAction  
+[DEBUG] 2016-08-19 17:21:53,738(609) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:872): mapActionToOperation: Mapping Action to Operation: action: anonRobustOp; operation: org.apache.axis2.description.RobustOutOnlyAxisOperation@4aee53named: {http://ws.apache.org/namespaces/axis2}anonRobustOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878): DEBUG_FRAME = org.apache.axis2.util.JavaUtils.callStackToString(JavaUtils.java:564)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.addOperation(AxisService.java:724)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.createAnonymousService(ServiceClient.java:268)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.configureServiceClient(ServiceClient.java:171)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:143)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:250)
+	DEBUG_FRAME = org.apache.axis2.rpc.client.RPCServiceClient.<init>(RPCServiceClient.java:47)
+	DEBUG_FRAME = webService.RPCClient.main(RPCClient.java:13)
+  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:485): Entry: AxisOperation::getInputAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:490): Debug: AxisOperation::getInputAction - using soapAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:506): Exit: AxisOperation::getInputAction urn:anonRobustOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:872): mapActionToOperation: Mapping Action to Operation: action: urn:anonRobustOp; operation: org.apache.axis2.description.RobustOutOnlyAxisOperation@4aee53named: {http://ws.apache.org/namespaces/axis2}anonRobustOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878): DEBUG_FRAME = org.apache.axis2.util.JavaUtils.callStackToString(JavaUtils.java:564)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.addOperation(AxisService.java:728)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.createAnonymousService(ServiceClient.java:268)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.configureServiceClient(ServiceClient.java:171)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:143)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:250)
+	DEBUG_FRAME = org.apache.axis2.rpc.client.RPCServiceClient.<init>(RPCServiceClient.java:47)
+	DEBUG_FRAME = webService.RPCClient.main(RPCClient.java:13)
+  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.addOperation(AxisService.java:673): Client-defined operation name matches default operation name. this may cause interoperability issues.  Name is: {http://ws.apache.org/namespaces/axis2}anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:485): Entry: AxisOperation::getInputAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:506): Exit: AxisOperation::getInputAction null  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.setSoapAction(AxisOperation.java:467): Entry: AxisOperation::setSoapAction, previous soapAction: null updated soapAction: urn:anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.setSoapAction(AxisOperation.java:471): Exit: AxisOperation::setSoapAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:872): mapActionToOperation: Mapping Action to Operation: action: anonOutonlyOp; operation: org.apache.axis2.description.OutOnlyAxisOperation@17f9a29named: {http://ws.apache.org/namespaces/axis2}anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878): DEBUG_FRAME = org.apache.axis2.util.JavaUtils.callStackToString(JavaUtils.java:564)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.addOperation(AxisService.java:724)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.createAnonymousService(ServiceClient.java:272)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.configureServiceClient(ServiceClient.java:171)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:143)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:250)
+	DEBUG_FRAME = org.apache.axis2.rpc.client.RPCServiceClient.<init>(RPCServiceClient.java:47)
+	DEBUG_FRAME = webService.RPCClient.main(RPCClient.java:13)
+  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:485): Entry: AxisOperation::getInputAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:490): Debug: AxisOperation::getInputAction - using soapAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:506): Exit: AxisOperation::getInputAction urn:anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:872): mapActionToOperation: Mapping Action to Operation: action: urn:anonOutonlyOp; operation: org.apache.axis2.description.OutOnlyAxisOperation@17f9a29named: {http://ws.apache.org/namespaces/axis2}anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878): DEBUG_FRAME = org.apache.axis2.util.JavaUtils.callStackToString(JavaUtils.java:564)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.addOperation(AxisService.java:728)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.createAnonymousService(ServiceClient.java:272)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.configureServiceClient(ServiceClient.java:171)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:143)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:250)
+	DEBUG_FRAME = org.apache.axis2.rpc.client.RPCServiceClient.<init>(RPCServiceClient.java:47)
+	DEBUG_FRAME = webService.RPCClient.main(RPCClient.java:13)
+  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:485): Entry: AxisOperation::getInputAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:506): Exit: AxisOperation::getInputAction null  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.setSoapAction(AxisOperation.java:467): Entry: AxisOperation::setSoapAction, previous soapAction: null updated soapAction: urn:anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.setSoapAction(AxisOperation.java:471): Exit: AxisOperation::setSoapAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:872): mapActionToOperation: Mapping Action to Operation: action: anonOutInOp; operation: org.apache.axis2.description.OutInAxisOperation@b21710named: {http://ws.apache.org/namespaces/axis2}anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878): DEBUG_FRAME = org.apache.axis2.util.JavaUtils.callStackToString(JavaUtils.java:564)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.addOperation(AxisService.java:724)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.createAnonymousService(ServiceClient.java:276)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.configureServiceClient(ServiceClient.java:171)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:143)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:250)
+	DEBUG_FRAME = org.apache.axis2.rpc.client.RPCServiceClient.<init>(RPCServiceClient.java:47)
+	DEBUG_FRAME = webService.RPCClient.main(RPCClient.java:13)
+  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:485): Entry: AxisOperation::getInputAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:490): Debug: AxisOperation::getInputAction - using soapAction  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getInputAction(AxisOperation.java:506): Exit: AxisOperation::getInputAction urn:anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:872): mapActionToOperation: Mapping Action to Operation: action: urn:anonOutInOp; operation: org.apache.axis2.description.OutInAxisOperation@b21710named: {http://ws.apache.org/namespaces/axis2}anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878): DEBUG_FRAME = org.apache.axis2.util.JavaUtils.callStackToString(JavaUtils.java:564)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.mapActionToOperation(AxisService.java:878)
+	DEBUG_FRAME = org.apache.axis2.description.AxisService.addOperation(AxisService.java:728)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.createAnonymousService(ServiceClient.java:276)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.configureServiceClient(ServiceClient.java:171)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:143)
+	DEBUG_FRAME = org.apache.axis2.client.ServiceClient.<init>(ServiceClient.java:250)
+	DEBUG_FRAME = org.apache.axis2.rpc.client.RPCServiceClient.<init>(RPCServiceClient.java:47)
+	DEBUG_FRAME = webService.RPCClient.main(RPCClient.java:13)
+  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.engine.AxisConfiguration.addToAllServicesMap(AxisConfiguration.java:486): Adding service to allServices map: [anonService2]   
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonRobustOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonRobustOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonOutonlyOp  
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.engine.AxisConfiguration.addServiceGroup(AxisConfiguration.java:396): Adding service to allEndpoints map: (anonService2,anonService2HttpSoap12Endpoint)   
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.engine.AxisConfiguration.addServiceGroup(AxisConfiguration.java:396): Adding service to allEndpoints map: (anonService2,anonService2HttpEndpoint)   
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.engine.AxisConfiguration.addServiceGroup(AxisConfiguration.java:396): Adding service to allEndpoints map: (anonService2,anonService2HttpSoap11Endpoint)   
+[DEBUG] 2016-08-19 17:21:53,785(656) --> [main] org.apache.axis2.engine.AxisConfiguration.addServiceGroup(AxisConfiguration.java:403): After adding to allEndpoints map, size is 3  
+[DEBUG] 2016-08-19 17:21:53,941(812) --> [main] org.apache.axiom.om.impl.common.serializer.pull.PullSerializer.<init>(PullSerializer.java:66): Pull serializer created; initial state is org.apache.axiom.om.impl.common.serializer.pull.Navigator@16dbfb4[cache=true,document=false]  
+[DEBUG] 2016-08-19 17:21:53,941(812) --> [main] org.apache.axis2.description.AxisService.getOperation(AxisService.java:1971): Get operation for {http://ws.apache.org/namespaces/axis2}anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,941(812) --> [main] org.apache.axis2.description.AxisService.getOperation(AxisService.java:2014): Found axis operation:  org.apache.axis2.description.OutInAxisOperation@b21710  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.util.OnDemandLogger.getLog(OnDemandLogger.java:55): OnDemandLogger initialized for class org.apache.axis2.context.ConfigurationContext is:org.apache.commons.logging.impl.Log4JLogger@1317bfb  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.util.OnDemandLogger.debug(OnDemandLogger.java:85): registerOperationContext (false): org.apache.axis2.context.OperationContext@1c2a074 with key: urn:uuid:0a6bda72-1aad-453c-8bde-3f36ec5c1293  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:164): Entry: OutInAxisOperationClient::execute, true  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@b427c1  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.context.MessageContext.getSoapAction(MessageContext.java:1119): SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@b427c1  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1524): Old SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1525): New SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.client.Options.setAction(Options.java:589): setAction Old action is (null)  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.client.Options.setAction(Options.java:590): setAction New action is (null)  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:194): OutInAxisOperationClient: useAsyncOption null  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.util.OnDemandLogger.debug(OnDemandLogger.java:85): registerOperationContext (false): org.apache.axis2.context.OperationContext@1c2a074 with key: urn:uuid:0a6bda72-1aad-453c-8bde-3f36ec5c1293  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.context.MessageContext.getWSAAction(MessageContext.java:1154): WASAction is (null)  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.util.OnDemandLogger.debug(OnDemandLogger.java:85): msgContext: [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] action: null  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:53,957(828) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Security"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Security"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Security"  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.context.MessageContext.getSoapAction(MessageContext.java:1119): SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:468): SOAP Action from messageContext : (null)  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.context.MessageContext.getWSAAction(MessageContext.java:1154): WASAction is (null)  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:481): SOAP Action from getWSAAction was : (null)  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonOutInOp  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:490): SOAP Action from AxisOperation was : (urn:anonOutInOp)  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:494): Will not override SOAP Action because (urn:anonOutInOp) in AxisOperation was auto-generated  
+[DEBUG] 2016-08-19 17:21:53,972(843) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.useragent = Jakarta Commons-HttpClient/3.1  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.protocol.version = HTTP/1.1  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.protocol.cookie-policy = default  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.protocol.element-charset = US-ASCII  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.protocol.content-charset = ISO-8859-1  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@15fd4a3  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:72): Java version: 1.7.0_15  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:73): Java vendor: Oracle Corporation  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:74): Java class path: D:\Workspace\test\build\classes;D:\Workspace\test\WebContent\WEB-INF\lib\log4j-1.2.17.jar;D:\apachetomcat-7.0.54\lib\annotations-api.jar;D:\apachetomcat-7.0.54\lib\catalina-ant.jar;D:\apachetomcat-7.0.54\lib\catalina-ha.jar;D:\apachetomcat-7.0.54\lib\catalina-tribes.jar;D:\apachetomcat-7.0.54\lib\catalina.jar;D:\apachetomcat-7.0.54\lib\ecj-P20140317-1600.jar;D:\apachetomcat-7.0.54\lib\el-api.jar;D:\apachetomcat-7.0.54\lib\jasper-el.jar;D:\apachetomcat-7.0.54\lib\jasper.jar;D:\apachetomcat-7.0.54\lib\jsp-api.jar;D:\apachetomcat-7.0.54\lib\servlet-api.jar;D:\apachetomcat-7.0.54\lib\tomcat-api.jar;D:\apachetomcat-7.0.54\lib\tomcat-coyote.jar;D:\apachetomcat-7.0.54\lib\tomcat-dbcp.jar;D:\apachetomcat-7.0.54\lib\tomcat-i18n-es.jar;D:\apachetomcat-7.0.54\lib\tomcat-i18n-fr.jar;D:\apachetomcat-7.0.54\lib\tomcat-i18n-ja.jar;D:\apachetomcat-7.0.54\lib\tomcat-jdbc.jar;D:\apachetomcat-7.0.54\lib\tomcat-util.jar;D:\apachetomcat-7.0.54\lib\tomcat7-websocket.jar;D:\apachetomcat-7.0.54\lib\websocket-api.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\activation-1.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\antlr-2.7.7.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\apache-mime4j-core-0.7.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axiom-api-1.2.19.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axiom-dom-1.2.19.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axiom-impl-1.2.19.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axiom-jaxb-1.2.19.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-adb-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-adb-codegen-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-ant-plugin-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-clustering-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-codegen-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-corba-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-fastinfoset-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-java2wsdl-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-jaxbri-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-jaxws-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-jibx-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-json-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-kernel-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-metadata-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-mtompolicy-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-saaj-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-soapmonitor-servlet-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-spring-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-base-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-http-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-jms-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-local-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-mail-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-tcp-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-udp-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-transport-xmpp-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\axis2-xmlbeans-1.7.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\bcel-findbugs-6.0.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\commons-cli-1.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\commons-codec-1.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\commons-fileupload-1.3.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\commons-httpclient-3.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\commons-io-2.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\commons-logging-1.1.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\geronimo-annotation_1.0_spec-1.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\geronimo-jaxws_2.2_spec-1.0.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\geronimo-jta_1.1_spec-1.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\geronimo-saaj_1.3_spec-1.0.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\geronimo-stax-api_1.0_spec-1.0.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\geronimo-ws-metadata_2.0_spec-1.1.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\gson-2.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\httpclient-4.2.5.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\httpcore-4.2.5.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jalopy-1.5rc3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jaxb-api-2.2.6.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jaxb-impl-2.2.6.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jaxb-xjc-2.2.6.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jaxen-1.1.6.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jaxws-tools-2.2.6.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jettison-1.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jibx-bind-1.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jibx-run-1.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\jsr311-api-1.1.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\juli-6.0.16.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\log4j-1.2.15.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\mail-1.4.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\mex-1.7.3-impl.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\neethi-3.0.3.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\stax2-api-3.1.1.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\tribes-6.0.16.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\woden-core-1.0M10.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\woodstox-core-asl-4.2.0.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\wsdl4j-1.6.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\xalan-2.7.0.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\xmlbeans-2.5.0.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\xml-resolver-1.2.jar;C:\Users\renyaol\Desktop\axis2-1.7.3\lib\xmlschema-core-2.2.1.jar  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:75): Operating system name: Windows 7  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:76): Operating system architecture: x86  
+[DEBUG] 2016-08-19 17:21:53,988(859) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:77): Operating system version: 6.1  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SUN 1.7: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunRsaSign 1.7: Sun RSA signature provider  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunEC 1.7: Sun Elliptic Curve provider (EC, ECDSA, ECDH)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunJSSE 1.7: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunJCE 1.7: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunJGSS 1.7: Sun (Kerberos v5, SPNEGO)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunSASL 1.7: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5, NTLM; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5, NTLM)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunPCSC 1.7: Sun PC/SC provider  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.HttpClient.<clinit>(HttpClient.java:82): SunMSCAPI 1.7: Sun's Microsoft Crypto API provider  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection-manager.timeout = 30000  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.socket.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,019(890) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.socket.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,035(906) --> [main] org.apache.axiom.om.OMOutputFormat.getContentType(OMOutputFormat.java:196): Start getContentType: OMOutputFormat [ mimeBoundary =null rootContentId=null doOptimize=false doingSWA=false isSOAP11=true charSetEncoding=UTF-8 xmlVersion=null contentType=null ignoreXmlDeclaration=false autoCloseWriter=false actionProperty=null optimizedThreshold=0]  
+[DEBUG] 2016-08-19 17:21:54,035(906) --> [main] org.apache.axiom.om.OMOutputFormat.getContentType(OMOutputFormat.java:215): getContentType= {text/xml}   OMOutputFormat [ mimeBoundary =null rootContentId=null doOptimize=false doingSWA=false isSOAP11=true charSetEncoding=UTF-8 xmlVersion=null contentType=text/xml ignoreXmlDeclaration=false autoCloseWriter=false actionProperty=null optimizedThreshold=0]  
+[DEBUG] 2016-08-19 17:21:54,035(906) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.getContentType(SOAPMessageFormatter.java:123): contentType from the OMOutputFormat =text/xml  
+[DEBUG] 2016-08-19 17:21:54,035(906) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.getContentType(SOAPMessageFormatter.java:148): contentType returned =text/xml; charset=UTF-8  
+[DEBUG] 2016-08-19 17:21:54,050(921) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,050(921) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.socket.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,050(921) --> [main] org.apache.commons.httpclient.MultiThreadedHttpConnectionManager.getConnectionWithTimeout(MultiThreadedHttpConnectionManager.java:412): HttpConnectionManager.getConnection:  config = HostConfiguration[host=http://localhost:8080], timeout = 30000  
+[DEBUG] 2016-08-19 17:21:54,050(921) --> [main] org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$ConnectionPool.createConnection(MultiThreadedHttpConnectionManager.java:760): Allocating new connection, hostConfig=HostConfiguration[host=http://localhost:8080]  
+[DEBUG] 2016-08-19 17:21:54,050(921) --> [main] org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:692): Open connection to localhost:8080  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "POST /axis2/services/SimpleService HTTP/1.1[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.HttpMethodBase.addHostRequestHeader(HttpMethodBase.java:1352): Adding Host request header  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "SOAPAction: ""[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "User-Agent: Axis2[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "Host: localhost:8080[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "Transfer-Encoding: chunked[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:51): start writeTo()  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:52):   preserve=false  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:53):   isOptimized=false  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:54):   isDoingSWA=false  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:130): Creating MTOMXMLStreamWriter  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:131): OutputStream =class org.apache.commons.httpclient.ChunkedOutputStream  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:132): OMFormat = OMOutputFormat [ mimeBoundary =null rootContentId=null doOptimize=false doingSWA=false isSOAP11=true charSetEncoding=UTF-8 xmlVersion=null contentType=text/xml ignoreXmlDeclaration=false autoCloseWriter=false actionProperty=null optimizedThreshold=0]  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:133): preserveAttachments = false  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLOutputFactory_perClassLoader(StAXUtils.java:609): About to create XMLOutputFactory implementation with classloader=sun.misc.Launcher$AppClassLoader@2cb49d  
+[DEBUG] 2016-08-19 17:21:54,066(937) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLOutputFactory_perClassLoader(StAXUtils.java:611): The classloader for javax.xml.stream.XMLOutputFactory is: null  
+[DEBUG] 2016-08-19 17:21:54,082(953) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLOutputFactory_perClassLoader(StAXUtils.java:630): Created XMLOutputFactory = class org.apache.axiom.util.stax.wrapper.ImmutableXMLOutputFactory for classloader=sun.misc.Launcher$AppClassLoader@2cb49d  
+[DEBUG] 2016-08-19 17:21:54,082(953) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLOutputFactory_perClassLoader(StAXUtils.java:632): Configuration = DEFAULT  
+[DEBUG] 2016-08-19 17:21:54,082(953) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLOutputFactory_perClassLoader(StAXUtils.java:633): Size of XMLOutFactory map for this configuration = 1  
+[DEBUG] 2016-08-19 17:21:54,082(953) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLOutputFactory_perClassLoader(StAXUtils.java:634): Configurations for which factories have been cached = [DEFAULT]  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.axiom.om.util.StAXUtils.createXMLStreamWriter(StAXUtils.java:344): XMLStreamWriter is org.apache.axiom.util.stax.dialect.Woodstox4StreamWriterWrapper  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.axiom.soap.impl.llom.SOAPEnvelopeImpl.internalSerialize(SOAPEnvelopeImpl.java:180): Could not close builder or parser due to:  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.axiom.soap.impl.llom.SOAPEnvelopeImpl.internalSerialize(SOAPEnvelopeImpl.java:182): builder is null  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:219): close  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.flush(MTOMXMLStreamWriter.java:230): Calling MTOMXMLStreamWriter.flush  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:81): end writeTo()  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "10d[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): >> "<?xml version='1.0' encoding='UTF-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Header/><soapenv:Body><getGreeting xmlns="http://ws.apache.org/axis2"><arg0 xmlns="">[0xe8][0xb6][0x85][0xe4][0xba][0xba]</arg0></getGreeting></soapenv:Body></soapenv:Envelope>"  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): >> "0"  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,097(968) --> [main] org.apache.commons.httpclient.methods.EntityEnclosingMethod.writeRequestBody(EntityEnclosingMethod.java:508): Request body sent  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "HTTP/1.1 200 OK[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "HTTP/1.1 200 OK[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Server: Apache-Coyote/1.1[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Content-Type: text/xml;charset=UTF-8[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Transfer-Encoding: chunked[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Date: Fri, 19 Aug 2016 09:21:54 GMT[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=07f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1524): Old SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1525): New SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.client.Options.setAction(Options.java:589): setAction Old action is (null)  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.client.Options.setAction(Options.java:590): setAction New action is (null)  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.context.MessageContext.getSoapAction(MessageContext.java:1119): SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axis2.transport.TransportUtils.createDocumentElement(TransportUtils.java:200): createSOAPEnvelope using Builder (class org.apache.axis2.builder.SOAPBuilder) selected from type (text/xml)  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:489): About to create XMLInputFactory implementation with classloader=sun.misc.Launcher$AppClassLoader@2cb49d  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:491): The classloader for javax.xml.stream.XMLInputFactory is: null  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:513): Created XMLInputFactory = class org.apache.axiom.util.stax.wrapper.ImmutableXMLInputFactory with classloader=sun.misc.Launcher$AppClassLoader@2cb49d  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:515): Configuration = SOAP  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:516): Size of XMLInputFactory map for this configuration = 1  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.getXMLInputFactory_perClassLoader(StAXUtils.java:517): Configurations for which factories have been cached = [DEFAULT, SOAP]  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "1"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "2"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "8"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "[\r]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\n]"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "<?xml version='1.0' encoding='UTF-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Header/><soapenv:Body><ns:getGreetingResponse xmlns:ns="http://ws.apache.org/axis2"><return>[0xe4][0xbd][0xa0][0xe5][0xa5][0xbd] [0xe8][0xb6][0x85][0xe4][0xba][0xba]</return></ns:getGreetingResponse></soapenv:Body></soapenv:Envelope>"  
+[DEBUG] 2016-08-19 17:21:54,191(1062) --> [main] org.apache.axiom.om.util.StAXUtils.createXMLStreamReader(StAXUtils.java:194): XMLStreamReader is org.apache.axiom.util.stax.dialect.Woodstox4StreamReaderWrapper  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axiom.soap.impl.builder.StAXSOAPModelBuilder.constructNode(StAXSOAPModelBuilder.java:210): Starting to process SOAP 1.1 message  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axiom.om.impl.builder.StAXOMBuilder.lookahead(StAXOMBuilder.java:696): Performing look-ahead; START_ELEMENT found  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'RequestURIBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'SOAPActionBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'AddressingBasedDispatcher' in Phase 'Addressing'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'RequestURIBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'SOAPActionBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'RequestURIOperationDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'SOAPMessageBodyBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'HTTPLocationBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.addressing.AddressingHelper.isReplyRedirected(AddressingHelper.java:102): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] isReplyRedirected: ReplyTo is null. Returning false  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'HTTPLocationBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'SOAPMessageBodyBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'RequestURIOperationDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'SOAPActionBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'RequestURIBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'AddressingBasedDispatcher' in Phase 'Addressing'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'SOAPActionBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=77f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'RequestURIBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axiom.om.impl.builder.StAXOMBuilder.parserNext(StAXOMBuilder.java:648): Consuming look-ahead token START_ELEMENT  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axiom.om.impl.common.serializer.pull.PullSerializer.<init>(PullSerializer.java:66): Pull serializer created; initial state is org.apache.axiom.om.impl.common.serializer.pull.Navigator@74e259[cache=true,document=false]  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "[\r]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\n]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "0"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "[\r]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\n]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "[\r]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\n]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.HttpMethodBase.shouldCloseConnection(HttpMethodBase.java:1024): Resorting to protocol version default close connection policy  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.HttpMethodBase.shouldCloseConnection(HttpMethodBase.java:1028): Should NOT close connection, using HTTP/1.1  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.HttpConnection.releaseConnection(HttpConnection.java:1178): Releasing connection back to connection manager.  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$ConnectionPool.freeConnection(MultiThreadedHttpConnectionManager.java:979): Freeing connection, hostConfig=HostConfiguration[host=http://localhost:8080]  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.util.IdleConnectionHandler.add(IdleConnectionHandler.java:76): Adding connection at: 1471598514206  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$ConnectionPool.notifyWaitingThread(MultiThreadedHttpConnectionManager.java:961): Notifying no-one, there are no waiting threads  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.description.AxisService.getOperation(AxisService.java:1971): Get operation for {http://ws.apache.org/namespaces/axis2}anonOutInOp  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.description.AxisService.getOperation(AxisService.java:2014): Found axis operation:  org.apache.axis2.description.OutInAxisOperation@b21710  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.util.OnDemandLogger.debug(OnDemandLogger.java:85): registerOperationContext (false): org.apache.axis2.context.OperationContext@c44a09 with key: urn:uuid:b8238ec0-0e64-4a33-b9aa-cea34fe5c346  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:164): Entry: OutInAxisOperationClient::execute, true  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@d8b0f6  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.context.MessageContext.getSoapAction(MessageContext.java:1119): SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@d8b0f6  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1524): Old SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1525): New SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.setAction(Options.java:589): setAction Old action is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.setAction(Options.java:590): setAction New action is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:194): OutInAxisOperationClient: useAsyncOption null  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.util.OnDemandLogger.debug(OnDemandLogger.java:85): registerOperationContext (false): org.apache.axis2.context.OperationContext@c44a09 with key: urn:uuid:b8238ec0-0e64-4a33-b9aa-cea34fe5c346  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.context.MessageContext.getWSAAction(MessageContext.java:1154): WASAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.util.OnDemandLogger.debug(OnDemandLogger.java:85): msgContext: [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] action: null  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.context.MessageContext.getSoapAction(MessageContext.java:1119): SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:468): SOAP Action from messageContext : (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.context.MessageContext.getWSAAction(MessageContext.java:1154): WASAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:481): SOAP Action from getWSAAction was : (null)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.description.AxisOperation.getSoapAction(AxisOperation.java:567): AxisOperation::getSoapAction urn:anonOutInOp  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:490): SOAP Action from AxisOperation was : (urn:anonOutInOp)  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.transport.http.CommonsHTTPTransportSender.findSOAPAction(CommonsHTTPTransportSender.java:494): Will not override SOAP Action because (urn:anonOutInOp) in AxisOperation was auto-generated  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection-manager.timeout = 30000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.socket.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.socket.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axiom.om.OMOutputFormat.getContentType(OMOutputFormat.java:196): Start getContentType: OMOutputFormat [ mimeBoundary =null rootContentId=null doOptimize=false doingSWA=false isSOAP11=true charSetEncoding=UTF-8 xmlVersion=null contentType=null ignoreXmlDeclaration=false autoCloseWriter=false actionProperty=null optimizedThreshold=0]  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axiom.om.OMOutputFormat.getContentType(OMOutputFormat.java:215): getContentType= {text/xml}   OMOutputFormat [ mimeBoundary =null rootContentId=null doOptimize=false doingSWA=false isSOAP11=true charSetEncoding=UTF-8 xmlVersion=null contentType=text/xml ignoreXmlDeclaration=false autoCloseWriter=false actionProperty=null optimizedThreshold=0]  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.getContentType(SOAPMessageFormatter.java:123): contentType from the OMOutputFormat =text/xml  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.getContentType(SOAPMessageFormatter.java:148): contentType returned =text/xml; charset=UTF-8  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.connection.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.params.DefaultHttpParams.setParameter(DefaultHttpParams.java:151): Set parameter http.socket.timeout = 60000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.MultiThreadedHttpConnectionManager.getConnectionWithTimeout(MultiThreadedHttpConnectionManager.java:412): HttpConnectionManager.getConnection:  config = HostConfiguration[host=http://localhost:8080], timeout = 30000  
+[DEBUG] 2016-08-19 17:21:54,206(1077) --> [main] org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$ConnectionPool.getFreeConnection(MultiThreadedHttpConnectionManager.java:839): Getting free connection, hostConfig=HostConfiguration[host=http://localhost:8080]  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "POST /axis2/services/SimpleService HTTP/1.1[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.HttpMethodBase.addHostRequestHeader(HttpMethodBase.java:1352): Adding Host request header  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "Content-Type: text/xml; charset=UTF-8[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "SOAPAction: ""[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "User-Agent: Axis2[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "Host: localhost:8080[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "Transfer-Encoding: chunked[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:51): start writeTo()  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:52):   preserve=false  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:53):   isOptimized=false  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:54):   isDoingSWA=false  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:130): Creating MTOMXMLStreamWriter  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:131): OutputStream =class org.apache.commons.httpclient.ChunkedOutputStream  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:132): OMFormat = OMOutputFormat [ mimeBoundary =null rootContentId=null doOptimize=false doingSWA=false isSOAP11=true charSetEncoding=UTF-8 xmlVersion=null contentType=text/xml ignoreXmlDeclaration=false autoCloseWriter=false actionProperty=null optimizedThreshold=0]  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.<init>(MTOMXMLStreamWriter.java:133): preserveAttachments = false  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.util.StAXUtils.createXMLStreamWriter(StAXUtils.java:344): XMLStreamWriter is org.apache.axiom.util.stax.dialect.Woodstox4StreamWriterWrapper  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.soap.impl.llom.SOAPEnvelopeImpl.internalSerialize(SOAPEnvelopeImpl.java:180): Could not close builder or parser due to:  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.soap.impl.llom.SOAPEnvelopeImpl.internalSerialize(SOAPEnvelopeImpl.java:182): builder is null  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:219): close  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.MTOMXMLStreamWriter.flush(MTOMXMLStreamWriter.java:230): Calling MTOMXMLStreamWriter.flush  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:81): end writeTo()  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "107[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): >> "<?xml version='1.0' encoding='UTF-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Header/><soapenv:Body><getPrice xmlns="http://ws.apache.org/axis2"><arg0 xmlns="">[0xe8][0xb6][0x85][0xe4][0xba][0xba]</arg0></getPrice></soapenv:Body></soapenv:Envelope>"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): >> "0"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): >> "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.methods.EntityEnclosingMethod.writeRequestBody(EntityEnclosingMethod.java:508): Request body sent  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "HTTP/1.1 200 OK[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "HTTP/1.1 200 OK[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Server: Apache-Coyote/1.1[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Content-Type: text/xml;charset=UTF-8[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Transfer-Encoding: chunked[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "Date: Fri, 19 Aug 2016 09:21:54 GMT[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\r][\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "MessageOut"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "PolicyDetermination"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OperationOutPhase"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=67f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1524): Old SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.context.MessageContext.setSoapAction(MessageContext.java:1525): New SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.client.Options.setAction(Options.java:589): setAction Old action is (null)  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.client.Options.setAction(Options.java:590): setAction New action is (null)  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.client.Options.getAction(Options.java:246): getAction (null) from org.apache.axis2.client.Options@19e09e8  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.context.MessageContext.getSoapAction(MessageContext.java:1119): SoapAction is (null)  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.transport.TransportUtils.createDocumentElement(TransportUtils.java:200): createSOAPEnvelope using Builder (class org.apache.axis2.builder.SOAPBuilder) selected from type (text/xml)  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "1"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "1"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "8"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "[\r]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:70): << "[\n]"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.commons.httpclient.Wire.wire(Wire.java:84): << "<?xml version='1.0' encoding='UTF-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Header/><soapenv:Body><ns:getPriceResponse xmlns:ns="http://ws.apache.org/axis2"><return>737</return></ns:getPriceResponse></soapenv:Body></soapenv:Envelope>"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.util.StAXUtils.createXMLStreamReader(StAXUtils.java:194): XMLStreamReader is org.apache.axiom.util.stax.dialect.Woodstox4StreamReaderWrapper  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.soap.impl.builder.StAXSOAPModelBuilder.constructNode(StAXSOAPModelBuilder.java:210): Starting to process SOAP 1.1 message  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axiom.om.impl.builder.StAXOMBuilder.lookahead(StAXOMBuilder.java:696): Performing look-ahead; START_ELEMENT found  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'RequestURIBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'SOAPActionBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'AddressingBasedDispatcher' in Phase 'Addressing'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'RequestURIBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'SOAPActionBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'RequestURIOperationDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'SOAPMessageBodyBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invokeHandler(Phase.java:331): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking Handler 'HTTPLocationBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.addressing.AddressingHelper.isReplyRedirected(AddressingHelper.java:102): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] isReplyRedirected: ReplyTo is null. Returning false  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,222(1093) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:289): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking pre-condition for Phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:300): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.invoke(Phase.java:319): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Checking post-conditions for phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OperationInPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "OpPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "RMPhase"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Dispatch"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'HTTPLocationBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'SOAPMessageBodyBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'RequestURIOperationDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'SOAPActionBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'RequestURIBasedDispatcher' in Phase 'Dispatch'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "PreDispatch"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Security"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Addressing"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'AddressingBasedDispatcher' in Phase 'Addressing'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:340): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() in Phase "Transport"  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'SOAPActionBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axis2.engine.Phase.flowComplete(Phase.java:359): [MessageContext: logID=57f24c111502c35133f56263ec6372004a673529f90dbf9c] Invoking flowComplete() for Handler 'RequestURIBasedDispatcher' in Phase 'Transport'  
+[DEBUG] 2016-08-19 17:21:54,238(1109) --> [main] org.apache.axiom.om.impl.builder.StAXOMBuilder.parserNext(StAXOMBuilder.java:648): Consuming look-ahead token START_ELEMENT  
